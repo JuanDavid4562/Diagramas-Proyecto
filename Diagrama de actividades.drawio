@@ -1,20 +1,32 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.4">
   <diagram name="Página-1" id="NNWvZ4oggBIMChuUHBzH">
-    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="2593" dy="3027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VYU7v_phaBW_iBIL2m6B-1" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4.547473508864641e-13" width="360" height="480" as="geometry" />
+        <mxCell id="VYU7v_phaBW_iBIL2m6B-1" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=60;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" width="1160" height="1680" as="geometry" />
         </mxCell>
-        <mxCell id="VYU7v_phaBW_iBIL2m6B-2" value="Lane 1" style="swimlane;startSize=20;html=1;" vertex="1" parent="VYU7v_phaBW_iBIL2m6B-1">
-          <mxGeometry y="20" width="120" height="460" as="geometry" />
+        <mxCell id="VYU7v_phaBW_iBIL2m6B-2" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Navegar&lt;/font&gt;" style="swimlane;startSize=80;html=1;" parent="VYU7v_phaBW_iBIL2m6B-1" vertex="1">
+          <mxGeometry y="60" width="430" height="1620" as="geometry" />
         </mxCell>
-        <mxCell id="VYU7v_phaBW_iBIL2m6B-3" value="Lane 2" style="swimlane;startSize=20;html=1;" vertex="1" parent="VYU7v_phaBW_iBIL2m6B-1">
-          <mxGeometry x="120" y="20" width="120" height="460" as="geometry" />
+        <mxCell id="VYU7v_phaBW_iBIL2m6B-3" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Inicio Secion&lt;/font&gt;" style="swimlane;startSize=80;html=1;" parent="VYU7v_phaBW_iBIL2m6B-1" vertex="1">
+          <mxGeometry x="430" y="60" width="340" height="1620" as="geometry" />
         </mxCell>
-        <mxCell id="VYU7v_phaBW_iBIL2m6B-4" value="Lane 3" style="swimlane;startSize=20;html=1;" vertex="1" parent="VYU7v_phaBW_iBIL2m6B-1">
-          <mxGeometry x="240" y="20" width="120" height="460" as="geometry" />
+        <mxCell id="VYU7v_phaBW_iBIL2m6B-4" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Mascotas&lt;/font&gt;" style="swimlane;startSize=80;html=1;" parent="VYU7v_phaBW_iBIL2m6B-1" vertex="1">
+          <mxGeometry x="770" y="60" width="390" height="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="IKzDBhC44jdNEWaVhKPq-2" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Configuracion&lt;/font&gt;" style="swimlane;startSize=80;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="60" width="420" height="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="IKzDBhC44jdNEWaVhKPq-3" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Servicios&lt;/font&gt;" style="swimlane;startSize=80;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="60" width="420" height="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="IKzDBhC44jdNEWaVhKPq-4" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Citas&lt;/font&gt;" style="swimlane;startSize=80;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="60" width="380" height="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="IKzDBhC44jdNEWaVhKPq-6" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Flooky Pets&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-60" width="2380" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
