@@ -86,6 +86,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-10" y="640" as="sourcePoint" />
             <mxPoint x="40" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="1010" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IKzDBhC44jdNEWaVhKPq-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="VYU7v_phaBW_iBIL2m6B-2" target="IKzDBhC44jdNEWaVhKPq-56">
@@ -105,6 +108,11 @@
         </mxCell>
         <mxCell id="IKzDBhC44jdNEWaVhKPq-26" value="Entramos a una sección del&amp;nbsp;&lt;div&gt;menú llamada mascotas&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VYU7v_phaBW_iBIL2m6B-4">
           <mxGeometry x="200" y="630" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IKzDBhC44jdNEWaVhKPq-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VYU7v_phaBW_iBIL2m6B-4" source="IKzDBhC44jdNEWaVhKPq-33" target="IKzDBhC44jdNEWaVhKPq-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IKzDBhC44jdNEWaVhKPq-33" value="Agregar mascota" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VYU7v_phaBW_iBIL2m6B-4">
           <mxGeometry x="350" y="190" width="120" height="60" as="geometry" />
@@ -224,6 +232,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="1120" as="sourcePoint" />
             <mxPoint x="270" y="1070" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1460" y="1110" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
