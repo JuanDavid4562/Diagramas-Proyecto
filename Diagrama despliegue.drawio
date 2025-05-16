@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
+  <diagram name="Página-1" id="XO-ks9HPtesyjlmdZ-hJ">
+    <mxGraphModel dx="1342" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fUNgv41KawKYKLtGHx_W-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fUNgv41KawKYKLtGHx_W-1" target="fUNgv41KawKYKLtGHx_W-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNgv41KawKYKLtGHx_W-1" value="Cliente Navegador Web&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Dispositivo (PC o Movil)&lt;/div&gt;&lt;div&gt;Navegador Web (Chorme, Firefox, Opera, Edge)&lt;/div&gt;&lt;div&gt;Sistemas Operatios (Wondows, Linux)&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="90" y="160" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNgv41KawKYKLtGHx_W-2" value="Domidio Flooky Pets&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;flookypets.com&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="430" y="160" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNgv41KawKYKLtGHx_W-3" value="Backend&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FlookyPets Fronted (Build React)&lt;/div&gt;&lt;div&gt;Express.js&lt;/div&gt;&lt;div&gt;Node.js 20&lt;/div&gt;&lt;div&gt;Librerias:&lt;/div&gt;&lt;div&gt;mysql12&lt;/div&gt;&lt;div&gt;bcrypt&lt;/div&gt;&lt;div&gt;emailjs&lt;/div&gt;&lt;div&gt;axios&lt;/div&gt;&lt;div&gt;&lt;div&gt;framer-motion&lt;/div&gt;&lt;div&gt;react-calendar&lt;/div&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="420" y="400" width="190" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNgv41KawKYKLtGHx_W-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=120;entryDy=95;entryPerimeter=0;" edge="1" parent="1" source="fUNgv41KawKYKLtGHx_W-3" target="fUNgv41KawKYKLtGHx_W-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNgv41KawKYKLtGHx_W-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.017;exitY=0.422;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fUNgv41KawKYKLtGHx_W-2" target="fUNgv41KawKYKLtGHx_W-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNgv41KawKYKLtGHx_W-8" value="Servidor Base de datos&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mysql Server&lt;/div&gt;&lt;div&gt;Puerto: 3306&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="420" y="720" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNgv41KawKYKLtGHx_W-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=220;entryDy=100;entryPerimeter=0;" edge="1" parent="1" source="fUNgv41KawKYKLtGHx_W-8" target="fUNgv41KawKYKLtGHx_W-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNgv41KawKYKLtGHx_W-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.042;entryY=0.361;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.986;exitY=0.395;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fUNgv41KawKYKLtGHx_W-3" target="fUNgv41KawKYKLtGHx_W-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fUNgv41KawKYKLtGHx_W-11" value="Seguridad y Autenticacion&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Roles: Propietario, Administrador y Veterinario&lt;/div&gt;&lt;div&gt;HTTPS&lt;/div&gt;&lt;div&gt;Rate Limiting&amp;nbsp; (100 req /min)&lt;/div&gt;&lt;div&gt;JWT AUTHETICATION&lt;/div&gt;&lt;div&gt;Firewall&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60" y="450" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNgv41KawKYKLtGHx_W-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=115;entryDy=190;entryPerimeter=0;" edge="1" parent="1" source="fUNgv41KawKYKLtGHx_W-11" target="fUNgv41KawKYKLtGHx_W-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNgv41KawKYKLtGHx_W-13" value="Integraciones&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pasarela de pagos&lt;/div&gt;&lt;div&gt;API Google Maps&lt;/div&gt;&lt;div&gt;Sistema de facturacion&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="740" y="447" width="190" height="137.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNgv41KawKYKLtGHx_W-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.461;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fUNgv41KawKYKLtGHx_W-3" target="fUNgv41KawKYKLtGHx_W-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
