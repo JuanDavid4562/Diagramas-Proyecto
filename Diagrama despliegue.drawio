@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Página-1" id="XO-ks9HPtesyjlmdZ-hJ">
-    <mxGraphModel dx="872" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,7 +39,7 @@
         <mxCell id="fUNgv41KawKYKLtGHx_W-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=115;entryDy=190;entryPerimeter=0;" parent="1" source="fUNgv41KawKYKLtGHx_W-11" target="fUNgv41KawKYKLtGHx_W-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fUNgv41KawKYKLtGHx_W-13" value="Integraciones&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pasarela de pagos&lt;/div&gt;&lt;div&gt;API Google Maps&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="fUNgv41KawKYKLtGHx_W-13" value="Integraciones&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cloudinary Fotos de perfil&lt;/div&gt;&lt;div&gt;API Google Maps&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="740" y="447" width="190" height="137.5" as="geometry" />
         </mxCell>
         <mxCell id="fUNgv41KawKYKLtGHx_W-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.461;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="fUNgv41KawKYKLtGHx_W-3" target="fUNgv41KawKYKLtGHx_W-13" edge="1">
